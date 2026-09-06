@@ -1,14 +1,16 @@
-My Resume
+# HTML Resume Page
 
-This repository contains my personal resume created using HTML.
+A clean, structured single-page online resume built using pure HTML.
 
-About Me
+## 📄 Overview
 
-I am an Information Technology student majoring in Business Analytics at Batangas State University – Alangilan Campus. I am interested in data analysis, database management, data visualization, and information systems.
+This project is a web-based resume displaying my personal background, education, work experience, technical skills, soft skills, certifications, hobbies, and contact information.
 
-Technologies Used
-HTML
-Basic Web Development
-Contents
-index.html – My personal resume webpage
-FORMAL PICTURE.jpg – Profile picture used in the resume
+## 📁 File Structure
+
+Keep both files in the **same directory** for the page to render properly:
+
+```text
+/your-resume-folder
+├── index.html              # Main HTML file containing the resume
+└── FORMAL PICTURE.jpg      # Profile picture used in the resume
